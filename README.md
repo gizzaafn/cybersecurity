@@ -256,4 +256,5 @@ echo "Login gagal (secure). <a href='index.php'>Kembali</a>";
 
 # 12) Hasil Assesment
 [owasp zap hostedscan report.pdf 2025-11-18.pdf](https://github.com/user-attachments/files/24488494/owasp.zap.hostedscan.report.pdf.2025-11-18.pdf)
+[owasp zap scanner output 2025-11-18.pdf](https://github.com/user-attachments/files/24488560/owasp.zap.scanner.output.2025-11-18.pdf)
 
