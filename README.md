@@ -243,3 +243,17 @@ echo "Login gagal (secure). <a href='index.php'>Kembali</a>";
 * Setelah latihan, praktikkan perbaikan pada `secure_login.php` dan migrasikan password ke hash.
 
 ---
+
+# 11) SQL Injection
+
+* SQL Injection berhasil
+* ![sql injection berhasil](https://github.com/user-attachments/assets/170702bf-b5e3-4e13-b7d3-191d7de368d8)
+
+* SQL Injection gagal
+* ![sql injection gagal](https://github.com/user-attachments/assets/4977f39c-054c-4419-88ef-004ad3334d78)
+
+---
+
+# 12) Hasil Assesment
+[owasp zap hostedscan report.pdf 2025-11-18.pdf](https://github.com/user-attachments/files/24488494/owasp.zap.hostedscan.report.pdf.2025-11-18.pdf)
+
